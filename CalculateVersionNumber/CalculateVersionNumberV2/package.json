@@ -11,7 +11,7 @@
   "dependencies": {
     "azure-pipelines-task-lib": "^2.9.3",
     "git-branch": "^2.0.1",
-    "isomorphic-git": "^0.70.5",
+    "isomorphic-git": "^1.8.2",
     "nyc": "^14.1.1",
     "simple-git": "^1.126.0"
   },
